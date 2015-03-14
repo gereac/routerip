@@ -1,0 +1,1 @@
+Detects router IP and writes it to d c plus plus configuration file
